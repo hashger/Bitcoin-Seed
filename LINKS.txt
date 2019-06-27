@@ -1,0 +1,6 @@
+https://royalforkblog.github.io/2014/08/11/graphical-address-generator/#@bkawk
+https://www.bitaddress.org/
+https://anders.com/blockchain/hash.html
+https://emn178.github.io/online-tools/sha512.html
+http://rumkin.com/tools/password/passchk.php
+https://eprint.iacr.org/2016/103.pdf

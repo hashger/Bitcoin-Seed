@@ -1,0 +1,19 @@
+{
+  "name": "xmpubk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "bitcoinjs-lib": "^5.0.5",
+    "hdkey": "^1.1.1",
+    "js-sha256": "^0.9.0",
+    "ripemd160": "^2.0.2",
+    "secure-random": "^1.1.2"
+  }
+}
