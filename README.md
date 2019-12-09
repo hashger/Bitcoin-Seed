@@ -26,3 +26,5 @@ npm install
 node addrs.js
 
 ```
+Listo! Tu semilla de 24 palabras se habra generado.
+####check Entropy of libraries
